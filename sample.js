@@ -26,4 +26,5 @@
       logTreatmentInteractions();
     });
   }
+  console.log("sample.js loaded");
 })();
